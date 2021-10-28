@@ -1,0 +1,9 @@
+.main h2 {
+  text-align: center;
+  padding: 20px;
+}
+
+.main > .container {
+  display: flex;
+  justify-content: space-between;
+}
